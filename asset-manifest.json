@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/real-world-algo-web/static/css/main.e9edee29.chunk.css",
+    "main.js": "/real-world-algo-web/static/js/main.36f7cc42.chunk.js",
+    "main.js.map": "/real-world-algo-web/static/js/main.36f7cc42.chunk.js.map",
+    "runtime-main.js": "/real-world-algo-web/static/js/runtime-main.c8c1d02a.js",
+    "runtime-main.js.map": "/real-world-algo-web/static/js/runtime-main.c8c1d02a.js.map",
+    "static/js/2.b3987088.chunk.js": "/real-world-algo-web/static/js/2.b3987088.chunk.js",
+    "static/js/2.b3987088.chunk.js.map": "/real-world-algo-web/static/js/2.b3987088.chunk.js.map",
+    "static/js/3.167e111e.chunk.js": "/real-world-algo-web/static/js/3.167e111e.chunk.js",
+    "static/js/3.167e111e.chunk.js.map": "/real-world-algo-web/static/js/3.167e111e.chunk.js.map",
+    "index.html": "/real-world-algo-web/index.html",
+    "static/css/main.e9edee29.chunk.css.map": "/real-world-algo-web/static/css/main.e9edee29.chunk.css.map",
+    "static/js/2.b3987088.chunk.js.LICENSE.txt": "/real-world-algo-web/static/js/2.b3987088.chunk.js.LICENSE.txt",
+    "static/media/blockDig.7f00c837.jpg": "/real-world-algo-web/static/media/blockDig.7f00c837.jpg",
+    "static/media/blockSearch.7f60e617.png": "/real-world-algo-web/static/media/blockSearch.7f60e617.png",
+    "static/media/ground7.da600969.png": "/real-world-algo-web/static/media/ground7.da600969.png",
+    "static/media/hamiltonian-fig.b808f5ab.svg": "/real-world-algo-web/static/media/hamiltonian-fig.b808f5ab.svg",
+    "static/media/logo.539fd5ff.svg": "/real-world-algo-web/static/media/logo.539fd5ff.svg",
+    "static/media/maxClosureFig.9b188c3d.svg": "/real-world-algo-web/static/media/maxClosureFig.9b188c3d.svg",
+    "static/media/md5ProcessingFig.76d28c52.png": "/real-world-algo-web/static/media/md5ProcessingFig.76d28c52.png",
+    "static/media/movingConeAlgoFig.a8fb6c04.png": "/real-world-algo-web/static/media/movingConeAlgoFig.a8fb6c04.png",
+    "static/media/mst-fig.8442208c.svg": "/real-world-algo-web/static/media/mst-fig.8442208c.svg",
+    "static/media/openPitMineFig.2390ac79.png": "/real-world-algo-web/static/media/openPitMineFig.2390ac79.png",
+    "static/media/partial-hamiltonian-fig.7224a22a.svg": "/real-world-algo-web/static/media/partial-hamiltonian-fig.7224a22a.svg",
+    "static/media/pizza-fig.ec2ee4f5.svg": "/real-world-algo-web/static/media/pizza-fig.ec2ee4f5.svg",
+    "static/media/sky2.60e23939.jpg": "/real-world-algo-web/static/media/sky2.60e23939.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c1d02a.js",
+    "static/js/2.b3987088.chunk.js",
+    "static/css/main.e9edee29.chunk.css",
+    "static/js/main.36f7cc42.chunk.js"
+  ]
+}
